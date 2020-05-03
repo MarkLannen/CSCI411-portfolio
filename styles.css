@@ -1,0 +1,28 @@
+body {
+    font-size: 16px;
+}
+
+.navbar-brand {
+    font-size: 1.75rem;
+}
+
+#left-nav-item {
+    margin-left: 4rem;
+}
+
+#right-nav-item {
+    margin-right: 4rem;
+}
+
+main {
+    background-color: #e8ecef;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+footer {
+    background-color: #353a40;
+    color: white;
+}
